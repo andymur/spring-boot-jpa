@@ -1,0 +1,6 @@
+cloud:
+  aws:
+    sqs:
+      listener:
+        auto-startup: false
+        queue-stop-timeout: 500

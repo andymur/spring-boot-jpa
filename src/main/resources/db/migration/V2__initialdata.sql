@@ -1,0 +1,1 @@
+INSERT INTO app_users(name) VALUES ('root');
